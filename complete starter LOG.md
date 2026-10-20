@@ -5,7 +5,7 @@ verification procedures, corrections, and research decisions.
 
 ## Project Information
 
-- Project:
+- Project: 
 - Author:
 - Started:
 - Last Updated:
